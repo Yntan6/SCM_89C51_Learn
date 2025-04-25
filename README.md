@@ -29,7 +29,7 @@
      unsigned int k;
      for(k = 0; k < xms; k++)      
      {         
-          unsigned char i, j;          //参数由AI生成               
+          unsigned char i, j;          //参数根据12MHz晶振由AI生成               
           i = 2;          
           j = 239;        
           do {    

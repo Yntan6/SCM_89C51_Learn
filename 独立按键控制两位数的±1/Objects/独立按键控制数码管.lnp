@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\SMG_CHOOSE.obj" 
+TO ".\Objects\独立按键控制数码管" 
+PRINT(".\Listings\独立按键控制数码管.m51") RAMSIZE(256) 

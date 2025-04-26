@@ -38,3 +38,6 @@
       }              
     }
 ---
+
+## 独立按键
+- [独立按键控制数码管进行+1或-1](https://github.com/Yntan6/SCM_89C51_Learn/blob/main/%E7%8B%AC%E7%AB%8B%E6%8C%89%E9%94%AE%E6%8E%A7%E5%88%B6%E4%B8%A4%E4%BD%8D%E6%95%B0%E7%9A%84%C2%B11/README.md)

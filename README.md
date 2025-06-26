@@ -44,4 +44,7 @@
 ---
 ## 动态数码管
 - [数码管显示 班级和学号](https://github.com/Yntan6/SCM_89C51_Learn/blob/main/%E6%95%B0%E7%A0%81%E7%AE%A1/Digital_Tube.md)
-
+---
+## 定时器/计数器
+- [定时器的构成](https://github.com/Yntan6/SCM_89C51_Learn/blob/main/%E5%AE%9A%E6%97%B6%E5%99%A8/timer.md)
+- [使用定时精确控制LED的亮灭时间](https://github.com/Yntan6/SCM_89C51_Learn/blob/main/%E5%AE%9A%E6%97%B6%E5%99%A8/timer_code.c)
